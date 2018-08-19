@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/rfoss28/liri-node-app/issues"
   },
-  "homepage": "https://github.com/rfoss28/liri-node-app#readme",
-  "dependencies": {
-    "omdb": "^0.8.0",
-    "spotify": "^0.3.0"
-  }
+  "homepage": "https://github.com/rfoss28/liri-node-app#readme"
 }

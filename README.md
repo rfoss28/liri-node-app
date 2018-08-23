@@ -1,7 +1,8 @@
 # LIRI Bot
 This application will search Spoify for songs, Bands in Town for concerts and OMDB for movies.
 
-##Installation Instructions
+## Installation Instructions
+The following node modules must be installed in order for the app to work: Moment, DotEnv, Request, and Node-Spotify-API.
 
 To run the application clone this repository to your computer and thn run the following commands from a bash command line.
 
